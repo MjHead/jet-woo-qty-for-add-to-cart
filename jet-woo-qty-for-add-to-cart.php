@@ -35,7 +35,6 @@ class Jet_Woo_Qty_For_Add_To_Cart {
 		$atts = shortcode_atts(
 			array(
 				'id'         => '',
-				'class'      => '',
 				'quantity'   => '1',
 				'sku'        => '',
 			),
